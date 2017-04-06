@@ -1,0 +1,10 @@
+0  : 0, 66, 24, 32, 1    : Koopa flying left 1
+1  : 32, 66, 24, 32, 1   : Koopa flying left 2
+2  : 63, 66, 24, 32, 1   : Koopa flying left 3
+3  : 93, 66, 24, 32, 1   : Koopa flying left 4
+4  : 123, 66, 24, 32, 1  : Koopa flying left 5
+5  : 153, 66, 24, 32, 0  : Koopa flying right 1
+6  : 183, 66, 24, 32, 0  : Koopa flying right 2
+7  : 213, 66, 24, 32, 0  : Koopa flying right 3
+8  : 243, 66, 24, 32, 0  : Koopa flying right 4
+9  : 273, 66, 24, 32, 0  : Koopa flying right 5
